@@ -4,7 +4,7 @@
 //
 //  Created by Fray Pineda on 1/18/19.
 //  Copyright © 2019 david. All rights reserved.
-//
+//This is
 
 import UIKit
 
@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("hello")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
